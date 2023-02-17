@@ -1,0 +1,8 @@
+C:\Users\Dasha\Desktop\C#\LR3\obj\Debug\LR3.csproj.AssemblyReference.cache
+C:\Users\Dasha\Desktop\C#\LR3\obj\Debug\LR3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dasha\Desktop\C#\LR3\obj\Debug\LR3.csproj.CoreCompileInputs.cache
+C:\Users\Dasha\Desktop\C#\LR3\bin\Debug\LR3.exe.config
+C:\Users\Dasha\Desktop\C#\LR3\bin\Debug\LR3.exe
+C:\Users\Dasha\Desktop\C#\LR3\bin\Debug\LR3.pdb
+C:\Users\Dasha\Desktop\C#\LR3\obj\Debug\LR3.exe
+C:\Users\Dasha\Desktop\C#\LR3\obj\Debug\LR3.pdb
