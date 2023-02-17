@@ -1,0 +1,8 @@
+C:\Users\Dasha\Desktop\C#\LR8\bin\Debug\LR8.exe.config
+C:\Users\Dasha\Desktop\C#\LR8\bin\Debug\LR8.exe
+C:\Users\Dasha\Desktop\C#\LR8\bin\Debug\LR8.pdb
+C:\Users\Dasha\Desktop\C#\LR8\obj\Debug\LR8.csproj.AssemblyReference.cache
+C:\Users\Dasha\Desktop\C#\LR8\obj\Debug\LR8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dasha\Desktop\C#\LR8\obj\Debug\LR8.csproj.CoreCompileInputs.cache
+C:\Users\Dasha\Desktop\C#\LR8\obj\Debug\LR8.exe
+C:\Users\Dasha\Desktop\C#\LR8\obj\Debug\LR8.pdb
